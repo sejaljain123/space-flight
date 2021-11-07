@@ -1,0 +1,48 @@
+.img{
+    object-fit: cover !important;
+    height: 400px !important;
+    width: 100%;
+}
+.article{
+    width: 100%;
+}
+.list{
+    display: flex !important;
+}
+.MuiImageListItemBar-title{
+    font-size: 25px !important;
+    margin-bottom: 4px !important;
+}
+.itembar{
+  
+    height: 60px;
+}
+.Summary{
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   display: flex;
+flex-direction: column;
+}
+.Summary p{
+ 
+    font-size: 30px;
+}
+.content{
+    width: 50%;
+}
+.Summary h1{
+    font-size: 40px;
+    margin:2rem;
+}
+
+.continue{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.continue:hover{
+    filter: invert(8%) sepia(91%) saturate(7361%) hue-rotate(247deg) brightness(103%) contrast(144%);
+}

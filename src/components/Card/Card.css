@@ -1,0 +1,7 @@
+.card{
+    margin: 3rem;
+}
+.header:hover{
+    text-decoration: underline;
+    color: blue;
+}
