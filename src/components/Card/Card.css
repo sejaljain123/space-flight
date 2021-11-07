@@ -1,7 +1,7 @@
-.card{
-    margin: 3rem;
+.card {
+  margin: 3rem;
 }
-.header:hover{
-    text-decoration: underline;
-    color: blue;
+.header:hover {
+  text-decoration: underline;
+  color: blue;
 }
